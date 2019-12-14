@@ -1,4 +1,4 @@
-# SNODAS_FTP_PROCESSING
+# snodas_ftp_processing
  Use wget to download files from server:
  
  Wget	
